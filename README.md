@@ -7,5 +7,5 @@ I started by creating the tables with just the column names and data types. Once
 
 Once the tables were created I imported the CSV files into their respective tables and began the data analysis portion. The analysis was pretty straight forward. The biggest hurdle was properly setting up the double JOIN operations. Once I completed that each analysis step was fairly straightforward.
 
-![Employee Database ERD](data/Employee Database_ERD.png)
+![Employee Database ERD](data/Employee_Database_ERD.png)
 
